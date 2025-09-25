@@ -12,7 +12,6 @@ void main() {
 
     string city;
     for (int i = 1; i <= 10; ++i) {
-        //outFile << "number " << i << ": " << "\n";
         outFile << "enter the name of the city " << i << ": ";
         getline(cin, city);
         outFile << city << "\n";
