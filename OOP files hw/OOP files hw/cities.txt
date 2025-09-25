@@ -1,0 +1,10 @@
+enter the name of the city 1: Odesa
+enter the name of the city 2: Beijing
+enter the name of the city 3: Kyiv
+enter the name of the city 4: Sofia
+enter the name of the city 5: Burgas
+enter the name of the city 6: 
+enter the name of the city 7: Tokyo
+enter the name of the city 8: Shanghai
+enter the name of the city 9: Osaka
+enter the name of the city 10: Chongqing
